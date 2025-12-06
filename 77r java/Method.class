@@ -1,0 +1,12 @@
+Êþº¾   A 
+       java/lang/Object <init> ()V	  	  
+ 
+  java/lang/System out Ljava/io/PrintStream;
+       java/io/PrintStream  println (I)V
+       Method 	printData (II)V Code LineNumberTable main ([Ljava/lang/String;)V 
+SourceFile 
+Method.java !                    *· ±            	       &     
+²  h¶ 
+±       
+     	  	       "     ¸ ±       
+             
